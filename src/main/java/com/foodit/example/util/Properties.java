@@ -1,0 +1,1 @@
+package com.foodit.example.util;public final class Properties {    public static final String INDEX_NAME = "indexName";    public static final String TYPE_NAME = "typeName";    public static final String SEARCH_FIELD_NAME = "searchField";    private Properties() {    }}
